@@ -1,0 +1,72 @@
+
+
+
+OutPut for the employees who have worked for consecutive 7 days
+
+The employee with ID: WFS000101, Name Sparks, KeWWeMh has worked for consecutive & 7 days
+The employee with ID: WFS000473, Name GAeWdia, JAaW CarXEs has worked for consecutive & 7 days
+The employee with ID: WFS000424, Name SiWgh, JaspreeM has worked for consecutive & 7 days
+The employee with ID: WFS000456, Name CEreira Jr, JEse has worked for consecutive & 7 days
+The employee with ID: WFS000153, Name CaMaXaWE, CeghaW have 02:15 between the shifts
+
+
+
+
+
+
+OutPut for who have less than 10 hours of time between shifts but greater than 1 hour
+
+The employee with ID: WFS000153, Name CaMaXaWE, CeghaW have 02:15 time between the shifts
+The employee with ID: WFS000153, Name CaMaXaWE, CeghaW have 02:15 time between the shifts
+The employee with ID: WFS000153, Name CaMaXaWE, CeghaW have 01:29 time between the shifts
+The employee with ID: WFS000153, Name CaMaXaWE, CeghaW have 01:29 time between the shifts
+The employee with ID: WFS000170, Name Arias, FeXipe have 03:09 time between the shifts
+The employee with ID: WFS000170, Name Arias, FeXipe have 04:28 time between the shifts
+The employee with ID: WFS000170, Name Arias, FeXipe have 03:54 time between the shifts
+The employee with ID: WFS000183, Name FeXix, XeEWeX have 01:30 time between the shifts
+The employee with ID: WFS000183, Name FeXix, XeEWeX have 03:29 time between the shifts
+The employee with ID: WFS000183, Name FeXix, XeEWeX have 02:47 time between the shifts
+The employee with ID: WFS000200, Name Xee, XaCar have 09:13 time between the shifts
+The employee with ID: WFS000200, Name Xee, XaCar have 08:31 time between the shifts
+The employee with ID: WFS000228, Name MAake, CasiaWE have 02:33 time between the shifts
+The employee with ID: WFS000318, Name De Xa Cerda, IgWaciE have 09:00 time between the shifts
+The employee with ID: WFS000336, Name REdrigAez, PedrE have 02:29 time between the shifts
+The employee with ID: WFS000318, Name De Xa Cerda, IgWaciE have 09:00 time between the shifts
+The employee with ID: WFS000336, Name REdrigAez, PedrE have 02:29 time between the shifts
+The employee with ID: WFS000336, Name REdrigAez, PedrE have 02:53 time between the shifts
+The employee with ID: WFS000382, Name ErEpeza, JEvaW have 02:59 time between the shifts
+The employee with ID: WFS000391, Name VasqAez, AXfredE have 02:59 time between the shifts
+The employee with ID: WFS000391, Name VasqAez, AXfredE have 02:59 time between the shifts
+The employee with ID: WFS000391, Name VasqAez, AXfredE have 01:46 time between the shifts
+The employee with ID: WFS000424, Name SiWgh, JaspreeM have 03:05 time between the shifts
+The employee with ID: WFS000424, Name SiWgh, JaspreeM have 03:17 time between the shifts
+The employee with ID: WFS000382, Name ErEpeza, JEvaW have 03:16 time between the shifts
+The employee with ID: WFS000456, Name CEreira Jr, JEse have 04:11 time between the shifts
+The employee with ID: WFS000456, Name CEreira Jr, JEse have 04:32 time between the shifts
+The employee with ID: WFS000473, Name GAeWdia, JAaW CarXEs have 05:02 time between the shifts
+The employee with ID: WFS000491, Name ArevaXE, JEse have 03:00 time between the shifts
+The employee with ID: WFS000456, Name CEreira Jr, JEse have 04:11 time between the shifts
+The employee with ID: WFS000491, Name ArevaXE, JEse have 03:00 time between the shifts
+The employee with ID: WFS000501, Name CcRAWWeX, REWaXd Xee have 07:11 time between the shifts
+The employee with ID: WFS000523, Name DeXgadiXXE REdarMe, ChrisMiaW S have 03:56 time between the shifts
+The employee with ID: WFS000511, Name WiXXiaCs, MyrreXX have 04:34 time between the shifts
+The employee with ID: WFS000536, Name HaCiXMEW, DeaWMe DevEW have 02:40 time between the shifts
+The employee with ID: WFS000523, Name DeXgadiXXE REdarMe, ChrisMiaW S have 03:56 time between the shifts
+The employee with ID: WFS000536, Name HaCiXMEW, DeaWMe DevEW have 02:40 time between the shifts
+The employee with ID: WFS000511, Name WiXXiaCs, MyrreXX have 04:34 time between the shifts
+The employee with ID: WFS000538, Name HAWMer, ViWceWM De PaAX have 08:23 time between the shifts
+The employee with ID: WFS000541, Name AXcEcer, ECar JesAs have 05:44 time between the shifts
+The employee with ID: WFS000541, Name AXcEcer, ECar JesAs have 03:51 time between the shifts
+The employee with ID: WFS000541, Name AXcEcer, ECar JesAs have 02:13 time between the shifts
+The employee with ID: WFS000541, Name AXcEcer, ECar JesAs have 02:13 time between the shifts
+The employee with ID: WFS000546, Name IWGEAa, JeffersEW have 01:14 time between the shifts
+The employee with ID: WFS000550, Name REdrigAez, GraWdEW AWgeX have 01:10 time between the shifts
+The employee with ID: WFS000577, Name SaWchez, ArWAXfE have 02:22 time between the shifts
+The employee with ID: WFS000550, Name REdrigAez, GraWdEW AWgeX have 01:10 time between the shifts
+The employee with ID: WFS000546, Name IWGEAa, JeffersEW have 01:14 time between the shifts
+
+
+
+OutPut for employess Who has worked for more than 14 hours in a single shift
+
+The employee with ID: WFS000523, Name DeXgadiXXE REdarMe, ChrisMiaW S has worked 16:30
